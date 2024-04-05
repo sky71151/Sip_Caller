@@ -10,7 +10,7 @@ GPIO.setup(4, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 
 #pi register information
-password = "Bloemenland2431a"
+password = ""
 user = "1008"
 domain = "192.168.0.36"
 
